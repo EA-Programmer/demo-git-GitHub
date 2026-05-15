@@ -1,5 +1,11 @@
 # Mini App - Lista de Tareas
 
+## Autor
+
+Proyecto realizado para practicar Git y GitHub en programación móvil.
+
+
+
 
 
 Este proyecto sirve para demostrar cómo funciona Git y GitHub.
