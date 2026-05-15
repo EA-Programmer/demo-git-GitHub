@@ -3,7 +3,7 @@
 
 
 Este proyecto sirve para demostrar cómo funciona Git y GitHub.
-
+git
 
 
 Funciones que se demostrarán:
