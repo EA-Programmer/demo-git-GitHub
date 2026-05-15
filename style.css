@@ -10,14 +10,23 @@ padding: 0;
 .contenedor {
 
 background: white;
+
 width: 90%;
+
 max-width: 500px;
+
 margin: 50px auto;
+
 padding: 25px;
-border-radius: 12px;
-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+border-radius: 18px;
+
+border-top: 8px solid #4f46e5;
+
+box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
 
 }
+
 
 h1 {
 text-align: center;
